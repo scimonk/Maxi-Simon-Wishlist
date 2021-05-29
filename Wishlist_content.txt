@@ -1,1 +1,29 @@
+Wishlist:
+Waffen die in der Wishlist sind.
+
+	-Borrowed Time
+	-Chroma Rush
+	-Empty Vessel
+	-Falling Guillotine
+	-Farewell
+	-Gridskipper
+	-Hung Jury SR4
+	-Ignition Code
+	-IKELOS_SMG_v1.0.2
+	-PLUG ONE.1
+	-Seventh Seraph Carbine
+	-Survivor's Epitaph
+	-Sojourner's Tale
+	-The Vision
+	-Uzume RR4
+	
+ToDo:
+Waffen die noch erstellt werden soll
+	
+	
+	
+	
+	
+
+	
 
