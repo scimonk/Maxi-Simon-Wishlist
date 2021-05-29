@@ -3,7 +3,9 @@ Waffen die in der Wishlist sind.
 
 	-Borrowed Time
 	-Chroma Rush
+	-Crown-Splitter
 	-Empty Vessel
+	-Eternity's Edge
 	-Falling Guillotine
 	-Farewell
 	-Gridskipper
@@ -11,6 +13,7 @@ Waffen die in der Wishlist sind.
 	-Ignition Code
 	-IKELOS_SMG_v1.0.2
 	-PLUG ONE.1
+	-Quickfang
 	-Seventh Seraph Carbine
 	-Survivor's Epitaph
 	-Sojourner's Tale
