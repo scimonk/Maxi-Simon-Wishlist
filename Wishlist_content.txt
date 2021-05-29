@@ -23,7 +23,8 @@ Waffen die in der Wishlist sind.
 ToDo:
 Waffen die noch erstellt werden soll
 	
-	
+	-Steady Hand
+	-Waking Vigil
 	
 	
 	
