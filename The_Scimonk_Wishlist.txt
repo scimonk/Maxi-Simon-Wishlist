@@ -332,3 +332,24 @@ dimwishlist:item=4281371574&perks=1482024992,106909392,247725512,3824105627
 dimwishlist:item=4281371574&perks=1482024992,106909392,247725512,3038247973
 
 
+// Quickfang - Simon Godroll (god-pve,pve,mnk)
+//notes: Simon PVE Godroll tags:god-pve,pve,mnk
+dimwishlist:item=2782325300&perks=2827049491,1749209109,354401740
+dimwishlist:item=2782325300&perks=938542991,1749209109,354401740
+dimwishlist:item=2782325300&perks=3666208348,1749209109,354401740
+
+
+// Eternity's Edge - Simon & Maxi (pve,mnk)
+//notes: Simon & Maxi PVE tags:pve,mnk
+dimwishlist:item=2782325301&perks=2827049491,1749209109,3708227201
+dimwishlist:item=2782325301&perks=2827049491,1749209109,354401740
+dimwishlist:item=2782325301&perks=938542991,1749209109,3708227201
+dimwishlist:item=2782325301&perks=938542991,1749209109,354401740
+dimwishlist:item=2782325301&perks=3666208348,1749209109,3708227201
+dimwishlist:item=2782325301&perks=3666208348,1749209109,354401740
+
+
+// Crown-Splitter - Simon & Maxi (pve,mnk)
+//notes: Simon & Maxi PVE tags:pve,mnk
+dimwishlist:item=2782325302&perks=938542991,1749209109,1546637391
+dimwishlist:item=2782325302&perks=938542991,1749209109,3913600130
