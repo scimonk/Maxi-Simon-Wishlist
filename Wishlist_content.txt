@@ -1,5 +1,5 @@
 Wishlist:
-Waffen die in der Wishlist sind.
+Weapons included in the wishlist
 
 	-Borrowed Time
 	-Chroma Rush
@@ -20,14 +20,9 @@ Waffen die in der Wishlist sind.
 	-The Vision
 	-Uzume RR4
 	
+	
 ToDo:
-Waffen die noch erstellt werden soll
+Weapons which should be added to the wishlist
 	
-	-Steady Hand
-	-Waking Vigil
-	
-	
-	
-
 	
 
