@@ -25,4 +25,5 @@ ToDo:
 Weapons which should be added to the wishlist
 	-Gambit Waffen
 	-PLUG ONE.1 (not in Voltron wishlist yet!)
+	-Maybe add more ignition code rolls
 
