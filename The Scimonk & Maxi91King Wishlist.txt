@@ -246,6 +246,17 @@ dimwishlist:item=1289000550&perks=3250034553,1687452232,2779035018,1427256713
 dimwishlist:item=1289000550&perks=1482024992,1687452232,2779035018,1427256713
 
 
+// PLUG ONE.1 - Simon PVE (MW Range) (pve,mnk)
+//notes: Simon PVE (MW Range) tags:pve,mnk
+dimwishlist:item=1289000550&perks=4090651448,2969185026,2779035018,1427256713
+dimwishlist:item=1289000550&perks=839105230,2969185026,2779035018,1427256713
+
+
+// PLUG ONE.1 - Simon PVP (MW Range) (pvp,mnk)
+//notes: Simon PVP (MW Range) tags:pvp,mnk
+dimwishlist:item=1289000550&perks=4090651448,2969185026,1570042021,1754714824
+
+
 // Seventh Seraph Carbine - Seventh Seraph Carbine | Maxi (pve)
 dimwishlist:item=1561006927&perks=4090651448,1968497646,1354429876,4082225868
 dimwishlist:item=1561006927&perks=4090651448,1968497646,1354429876,3425386926
